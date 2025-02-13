@@ -1,3 +1,5 @@
+## Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMDE0NGU3NTItZDE3MS00OGJiLWI5MjYtZGVkZmM4M2Y1Y2I2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 #  Project Overview: Revitalizing AtliQ Grands with Data-Driven Strategies
 The luxury hospitality market is relentless; it continually tries to outpace a business by offering superior service and using informed marketing strategies. After losing market share and revenue for more than a decade, AtliQ Grands seems to be in dire need. Competing strongholds, as well as improper management, have neglected the 20-year legacy of AtliQ Grands.
 After assigning me with the project, I made it my mission to facilitate AtliQ Grands with efficient occupancy rates, reliable revenue systems, and above-average client satisfaction. My job as a data analyst was to ensure that raw data could be used for action planning.
@@ -40,7 +42,6 @@ Week 24 earned the highest in revenue (₹139.6M), validating our seasonal deman
  Dashbaord design is equally important to the data presented, as it has the power to accelerate the business decision making process.
 
 
-## Live Link : https://app.powerbi.com/view?r=eyJrIjoiMDE0NGU3NTItZDE3MS00OGJiLWI5MjYtZGVkZmM4M2Y1Y2I2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
